@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasolam
 - 👀 I’m interested in Python, SQL, Rock music and Warhammer
-- 🌱 I’m currently learning Python and expand my current SQL skills
+- 🌱 I’m currently learning Python and expanding my current SQL skills
 - ⚡ Fun fact: I am a published authour and had multiple short stories published in the past.
 
 
